@@ -1,0 +1,106 @@
+body  {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+
+
+.container {
+    height: 100vh;
+    background:linear-gradient(rgba(0,0,0, 0.6), rgba(0, 0, 0,0.6 )), url(bg.jpg)center/cover fixed no-repeat; 
+    width: 100%;
+    text-align: center;
+
+}
+
+.sign-btn {
+    position: absolute;
+    top: 8%;
+    left: 90%;
+    background: #e50914;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    opacity: 0.9;
+    border-radius:4px;
+    border: 0;
+}
+
+.sign-btn:hover {
+    opacity: 1;
+}
+
+
+.sub-container {
+    margin-top: 70px;
+}
+
+.see {
+    font-size: 60px;
+    font-weight: 700;
+    color: #fff;
+    font-family: Helvetica;
+}
+
+.watch {
+    font-size: 25px;
+    font-weight: 300;
+    color: #fff;
+    font-family: Helvetica;
+}
+
+
+.join-btn {
+    border: 0;
+    background: #e50914;
+    padding: 20px 20px;
+    font-size: 40px;
+    color: #fff;
+    font-family: helvetica;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    opacity: 0.9;
+}
+
+.join-btn:hover {
+    opacity: 1;
+}
+
+
+.headers {
+    background-color: black;
+    width: 950px;
+    height: 150px;
+    color: #fff;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    font-family: helvetica;
+    font-size: 20px;
+    margin-top: 100px;
+    
+}
+
+.no {
+    margin-top: 60px;
+    
+}
+
+.any {
+    margin-top: 60px;
+}
+
+.pick {
+    margin-top: 60px;
+}
+
+.com {
+    background-color: black;
+    height: 400px;
+    color:#fff;
+}
+
+
